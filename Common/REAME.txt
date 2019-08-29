@@ -1,0 +1,11 @@
+~~AbarClassic:
+~~Auctionator:
+~~ClassPortraitsFinal:When you your mouse hovers over a character/party member, a 3D module of her with some info will show.
+~~ElitePlayerFrame_Enhanced:
+~~Leatrix_Maps:
+~~Lorti-UI-Classic:
+~~OmniCC:
+~~OmniCC_Config:
+~~TinyTooltip:
+~~TrinketMenu:
+~~ZygorGuidesViewerClassic: Best quest helper, leveling guide +prof leveling guide, talent builds.
