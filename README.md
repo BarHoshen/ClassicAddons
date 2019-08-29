@@ -1,0 +1,2 @@
+# ClassicAddons
+ addons for classicWow
